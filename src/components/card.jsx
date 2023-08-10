@@ -1,4 +1,3 @@
-// import React, { Component, h1, h2 } from 'react';
 
 export default function card(data) {
   return (
